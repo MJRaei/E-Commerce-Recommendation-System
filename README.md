@@ -1,4 +1,4 @@
-# E-Commerce Data Analysis and Exceptional Deal Finder
+# E-Commerce Recommendation System
 
 This project demonstrates a complete pipeline for analyzing e-commerce data, focusing on data cleaning, feature engineering, and discovering exceptional deals using autoencoders. The system employs robust data science techniques and tools to extract insights and highlight unique deals to users based on product attributes.
 
