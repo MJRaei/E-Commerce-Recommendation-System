@@ -14,7 +14,7 @@ def recommendation_step(
     clearance_weight: float = 0.05
 ) -> pd.DataFrame:
     """
-    Recommends the top n products based on specified features, with weights for additional binary indicators.
+    Recommends the top n products based on specified features, with weights for additional binary indicators (Not used in this project).
     
     Parameters:
     - df (pd.DataFrame): The DataFrame containing the engineered features.
